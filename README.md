@@ -1,2 +1,4 @@
-# FHS_CS1
-For Computer Science 1 at FHS
+#### FHS_CS1
+
+## Repository for Computer Science 1
+## Mario Party games are great
